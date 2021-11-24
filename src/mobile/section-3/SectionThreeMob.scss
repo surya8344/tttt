@@ -1,0 +1,118 @@
+
+.wrapper {
+    margin-top: 100px;
+    .totalbody {
+        display: flex;
+        width: auto;
+        margin-top: 80px;
+    }
+    .contentone {
+        width: 240px;
+        height: 300px;
+        padding-left: 10px;
+    }
+    .contenttwo {
+        width: 240px;
+        height: 300px;
+        padding: 0px 10px;
+    }
+    .contentthree {
+        width: 240px;
+        height: 300px;
+        padding-right: 10px  ;
+    }
+    .dataone {
+        width: 70px;
+        height:70px;
+        padding-left: 85px;
+    
+    }
+    .datatwo {
+        width: 240px;
+        height: 135px;
+        clip-path: ellipse(63% 85% at 50% 5%);
+    }
+    .datathree {
+        width: 70px;
+        height: 70px;
+        padding-left: 85px;
+    }
+    .datafour {
+        width: 240px;
+        height: 130px;
+        clip-path: ellipse(63% 85% at 50% 5%);
+    }
+    .datafive {
+        width: 70px;
+        height: 70px;
+    }
+    .datasix {
+        width: 240px;
+        height: 130px;
+        clip-path: ellipse(63% 85% at 50% 5%);
+    }
+    .paraone {
+        width: 220px;
+        height: 120px;
+        font-size: 11px;
+        margin-top: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 0px; 
+    }
+    .paratwo {
+        width: 240px;
+        height: 120px;
+        font-size: 11px;
+        margin-top: 0px;
+        margin-bottom: 0px; 
+    }
+    .parathree {
+        width: 240px;
+        height: 120px;
+        font-size: 11px;
+        padding-right: 10px;
+        margin-top: 0px;
+        margin-bottom: 0px; 
+    }
+    .insta {
+        width: 25px;
+        height: 25px;
+        }
+    .mainone {
+        display: flex;
+        width: 200px;
+        padding-left: 10px;
+    }
+    .maintwo {
+        display: flex;
+        width: 200px;
+        padding-left: 10px;
+    }
+    .mainthree {
+        display :flex;
+        width: 200px;  
+    }
+    .one {
+        font-size: 10px;
+        margin-top: 6px;
+        width:175px;
+        font-weight: 500;
+        width: 300px;
+    }
+    .moveableone {
+        position: absolute;
+        top: 65px;
+    }
+    .moveabletwo {
+        position: absolute;
+        top: 65px;
+    }
+    .moveablethree {
+        position: absolute;
+        top: 65px;
+        padding-left: 85px;
+    }
+}
+
+
